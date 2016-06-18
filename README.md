@@ -2,6 +2,9 @@
 
 ####Feature: Commmand Prompt Option appere on DesktopBackground, DirectoryBackground, Directory Right Click Options. 
 
+####Supported Platform:
+1. Windows
+
 ####Usage:
 1. Open Notepad
 2. Copy this code 
